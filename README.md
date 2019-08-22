@@ -1,0 +1,2 @@
+# ideabook
+Quickly save ideas
